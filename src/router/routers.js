@@ -26,13 +26,5 @@ export default [
             title: '基础资料'
         },
         component: level21
-    },
-    {
-        path: '*',
-        name: 'error_404',
-        meta: {
-            hideInMenu: true
-        },
-        component: () => import('@/view/error-page/404.vue')
     }
 ]
