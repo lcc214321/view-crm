@@ -19,7 +19,7 @@ import level21 from '../view/multilevel/level-2-1.vue';
 
 export default [
     {
-        path: '/crm-view/base',
+        path: '/base',
         name: 'base',
         meta: {
             icon: 'md-funnel',

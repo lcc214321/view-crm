@@ -28,7 +28,7 @@ module.exports = {
     },
     filenameHashing: false,
     // 打包输入文件名称
-    outputDir: 'crm-view',
+    outputDir: 'view-crm',
     // Project deployment base
     // By default we assume your app will be deployed at the root of a domain,
     // e.g. https://www.my-app.com/
