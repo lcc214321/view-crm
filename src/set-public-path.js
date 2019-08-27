@@ -1,1 +1,1 @@
-__webpack_public_path__ = window.getPublicPath('crm-view')
+__webpack_public_path__ = window.getPublicPath('view-crm')
